@@ -14,7 +14,7 @@ public class Astros{
 	}
 
 	public int getRadio() {
-		return radio;
+		return radio;//e6ey
 	}
 
 	public void setRadio(int radio) {
